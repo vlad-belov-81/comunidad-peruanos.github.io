@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  background-color: lightgray;
+  background: url('https://found.indiabetinvest.co/bot_files/img/bg.jpg');
+  background-size: cover !important;
+  background-position: bottom;
+}
+.hidden {
+  display: none;
+}
+.footer {
+  padding: 20px 0;
+}
+.btn {
+  font-size: 12px;
+  text-transform: uppercase;
+  border-radius: 8px;
+}
+.form-control {
+  border-radius: 0;
+}
+#inputUrl {
+  margin-bottom: 20px;
+}
+#convert-form {
+  width: 100%;
+}
+.title {
+  color: #d8d8d8;
+  font-weight: normal;
+  font-size: 20px;
+}
+.avatar {
+height:200px;width:200px;margin:0 auto;display:block;margin-bottom:50px;object-fit:cover;border-radius:50%;}
+.text-muted {
+  opacity: 0;
+}
